@@ -6,4 +6,4 @@ Datos:
 ## Descripción 
 Instalación y configuración de entorno de desarrollo
 ## Funcionamiento 
-![](TP1/carro.jpg)
+![](img/carro.jpg)
