@@ -6,4 +6,4 @@ Datos:
 ## Descripción 
 Instalación y configuración de entorno de desarrollo
 ## Funcionamiento 
-![](IMG/carro.jpg)
+![](/workspaces/tallercamilocastro_A/IMG/carro.jpg)
